@@ -6,10 +6,11 @@
 ### 🎓 42 Network Progress
 
 <p align="center">
-  <a href="https://profile.intra.42.fr/users/moer-ret">
-    <img src="https://badge.mediaplus.ma/darkgray/moer-ret?1337Badge=off&UM6P=off" alt="42 Network Badge" width="420" />
-  </a>
+  <img src="https://badge.mediaplus.ma/greenbinary/moer-ret?1337Badge=on&UM6P=on" alt="42 Badge" width="430"/>
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Merretby&repo=42-Cursus&theme=tokyonight&hide_border=true" alt="42 Project Progress"/>
 </p>
+
 
 ---
 
