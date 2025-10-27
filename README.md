@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://profile.intra.42.fr/users/moer-ret">
-    <img src="https://badge.mediaplus.ma/darkgray/moer-ret?1337Badge=off&UM6P=off" alt="42 Network Badge" width="420" />
+    <img src="https://badge.mediaplus.ma/darkblue/moer-ret?1337Badge=on&UM6P=on" alt="42 Badge" width="420"/>
   </a>
 </p>
 
