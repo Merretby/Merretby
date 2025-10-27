@@ -11,10 +11,9 @@ Motivated by collaboration, clean code, and building efficient solutions.
 ---
 
 - 🔍 I’m currently **looking for an internship**
-- 🚀 I’m exploring **backend and full-stack web development**
+- 🚀 I’m exploring **backend web development**
 - 💬 Ask me about **C, C++ or JavaScript**
 - 📫 How to reach me: **m.mohamed.erretby@gmail.com**
-- ⚡ Fun fact: I love solving challenging problems and optimizing code!
 
 ---
 
