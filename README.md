@@ -5,11 +5,6 @@
 
 ### 🎓 42 Network Progress
 
-<p align="center">
-  <a href="https://profile.intra.42.fr/users/moer-ret">
-    <img src="https://badge.mediaplus.ma/black/moer-ret?1337Badge=on&UM6P=on" alt="42 Badge" width="420"/>
-  </a>
-</p>
 
 ---
 
