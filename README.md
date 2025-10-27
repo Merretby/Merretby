@@ -5,18 +5,9 @@
 
 ### 🎓 42 Network Progress
 
-<div style="
-  text-align: center;
-  background: linear-gradient(135deg, #ff6ec4 0%, #7873f5 100%);
-  padding: 20px;
-  border-radius: 16px;
-">
-  <a href="https://profile.intra.42.fr/users/moer-ret">
-    <img src="https://badge.mediaplus.ma/darkblue/moer-ret?1337Badge=on&UM6P=on" 
-         alt="42 Badge" width="420" style="border-radius: 10px;"/>
-  </a>
-</div>
-
+<p align="">
+  <img src="https://badge.mediaplus.ma/greenbinary/moer-ret" alt="42 Badge" />
+</p>
 
 ---
 
