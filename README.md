@@ -6,7 +6,7 @@
 ### 🎓 42 Network Progress
 
 <p align="center">
-  <img src="https://badge.mediaplus.ma/greenbinary/moer-ret" alt="42 Badge" />
+  <img src="https://badge.mediaplus.ma/darkblue/moer-ret" alt="42 Badge" width="400"/>
 </p>
 
 ---
