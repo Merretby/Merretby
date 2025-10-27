@@ -49,7 +49,7 @@ Motivated by collaboration, clean code, and building efficient solutions.
 ### 🎓 42 Network Progress
 
 <p align="center">
-  <img src="https://badge.mediaplus.ma/greenbinary/Merretby" alt="42 Badge" />
+  <img src="https://badge.mediaplus.ma/greenbinary/moer-ret" alt="42 Badge" />
 </p>
 
 ---
