@@ -3,6 +3,14 @@
 
 ---
 
+### 🎓 42 Network Progress
+
+<p align="center">
+  <img src="https://badge.mediaplus.ma/greenbinary/moer-ret" alt="42 Badge" />
+</p>
+
+---
+
 ### 🧠 About Me
 Performance-focused software engineering student passionate about technology and continuous learning.  
 Skilled in **C**, **C++**, **JavaScript**, and **Node.js**, with a strong foundation in software development and debugging.  
@@ -43,13 +51,6 @@ Motivated by collaboration, clean code, and building efficient solutions.
 
 ---
 
-### 🎓 42 Network Progress
-
-<p align="center">
-  <img src="https://badge.mediaplus.ma/greenbinary/moer-ret" alt="42 Badge" />
-</p>
-
----
 
 ### 🌍 Connect with Me
 
