@@ -3,17 +3,6 @@
 
 ---
 
-### 🎓 42 Network Progress
-
-<p align="center">
-  <img src="https://badge.mediaplus.ma/greenbinary/moer-ret?1337Badge=on&UM6P=on" alt="42 Badge" width="430"/>
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Merretby&repo=42-Cursus&theme=tokyonight&hide_border=true" alt="42 Project Progress"/>
-</p>
-
-
----
-
 ### 🧠 About Me
 Performance-focused software engineering student passionate about technology and continuous learning.  
 Skilled in **C**, **C++**, **JavaScript**, and **Node.js**, with a strong foundation in software development and debugging.  
@@ -22,9 +11,10 @@ Motivated by collaboration, clean code, and building efficient solutions.
 ---
 
 - 🔍 I’m currently **looking for an internship**
-- 🚀 I’m exploring **backend web development**
+- 🚀 I’m exploring **backend and full-stack web development**
 - 💬 Ask me about **C, C++ or JavaScript**
 - 📫 How to reach me: **m.mohamed.erretby@gmail.com**
+- ⚡ Fun fact: I love solving challenging problems and optimizing code!
 
 ---
 
@@ -47,6 +37,9 @@ Motivated by collaboration, clean code, and building efficient solutions.
   <img src="https://streak-stats.demolab.com?user=Merretby&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Merretby&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Merretby&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
@@ -54,6 +47,15 @@ Motivated by collaboration, clean code, and building efficient solutions.
 
 ---
 
+### 🎓 42 Network Progress
+
+<p align="center">
+  <img src="https://badge.mediaplus.ma/greenbinary/moer-ret?1337Badge=on&UM6P=on" alt="42 Badge" width="430"/>
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Merretby&repo=42-Cursus&theme=tokyonight&hide_border=true" alt="42 Project Progress"/>
+</p>
+
+---
 
 ### 🌍 Connect with Me
 
