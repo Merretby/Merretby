@@ -4,18 +4,14 @@
 ---
 
 ### 🎓 42 Network Progress
-<p align="center">
-  <!-- Colorful Waves badge -->
-  <img src="https://camo.githubusercontent.com/7a5a51d19c3785d180e77bd335aa8e160e4d32409816e452d266e68dac75d1a3/68747470733a2f2f62616467652e6d65646961706c75732e6d612f636f6c6f7266756c77617665732f7965722d72657462" 
-       alt="Colorful Waves Badge" width="150" />
 
-  <!-- 42 Badge -->
-  <a href="https://profile.intra.42.fr/users/moer-ret">
+<p align="center">
+  <a href="https://profile.intra.42.fr/users/moer-ret" 
+     style="display: inline-block; padding: 10px; border-radius: 12px; background: linear-gradient(90deg, #ff6ec4, #7873f5);">
     <img src="https://badge.mediaplus.ma/darkblue/moer-ret?1337Badge=on&UM6P=on" 
-         alt="42 Badge" width="420"/>
+         alt="42 Badge" width="420" style="border-radius: 10px;"/>
   </a>
 </p>
-
 
 ---
 
