@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohamed Erretby</h1>
-<h3 align="center">💻 Software Engineering Student @1337 | Passionate about C, C++, and JavaScript 🚀</h3>
+<h3 align="center">💻 Software Engineering Student @1337 | Passionate about C, C++, Ruby and JavaScript 🚀</h3>
 
 ---
 
@@ -13,14 +13,14 @@
 
 ### 🧠 About Me
 Performance-focused software engineering student passionate about technology and continuous learning.  
-Skilled in **C**, **C++**, **JavaScript**, and **Node.js**, with a strong foundation in software development and debugging.  
+Skilled in **C**, **C++**, **JavaScript**, **Ruby** and **Node.js**, with a strong foundation in software development and debugging.  
 Motivated by collaboration, clean code, and building efficient solutions.  
 
 ---
 
 - 🔍 I’m currently **looking for an internship**
 - 🚀 I’m exploring **backend web development**
-- 💬 Ask me about **C, C++ or JavaScript**
+- 💬 Ask me about **C, C++, Ruby or JavaScript**
 - 📫 How to reach me: **m.mohamed.erretby@gmail.com**
 
 ---
@@ -34,6 +34,8 @@ Motivated by collaboration, clean code, and building efficient solutions.
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" />
+
 </p>
 
 ---
